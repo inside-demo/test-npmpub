@@ -4,7 +4,11 @@
   "description": "test auto push/pub",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"test\""
+    "test": "echo \"test passed\"",
+    "patch": "np patch",
+    "minor": "np minor",
+    "major": "np major",
+    "commitmsg": "conventional-changelog-lint -e"
   },
   "repository": {
     "type": "git",
@@ -17,6 +21,8 @@
   },
   "homepage": "https://github.com/GitScrum/test-npmpub#readme",
   "dependencies": {
+    "conventional-changelog-lint": "^1.0.0",
+    "husky": "^0.11.5",
     "np": "^2.6.0",
     "npmpub": "^3.1.0"
   }
