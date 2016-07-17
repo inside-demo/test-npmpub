@@ -7,7 +7,4 @@
 [![npm license](https://img.shields.io/npm/l/test-npmpub.svg)](https://www.npmjs.com/package/test-npmpub)
 [![npm download](https://img.shields.io/npm/dm/test-npmpub.svg)](https://www.npmjs.com/package/test-npmpub)
 [![npm download](https://img.shields.io/npm/dt/test-npmpub.svg)](https://www.npmjs.com/package/test-npmpub)
-[![apm version](https://img.shields.io/apm/v/test-npmpub.svg)](https://atom.io/packages/test-npmpub)
-[![apm license](https://img.shields.io/apm/l/test-npmpub.svg)](https://atom.io/packages/test-npmpub)
-[![apm download](https://img.shields.io/apm/dt/test-npmpub.svg)](https://atom.io/packages/test-npmpub)
 <!-- endbadge -->
