@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/GitScrum/test-npmpub#readme",
   "dependencies": {
+    "conventional-changelog-cli": "^1.2.0",
     "conventional-changelog-lint": "^1.0.0",
     "husky": "^0.11.5",
     "np": "^2.6.0"
