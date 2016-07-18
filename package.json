@@ -9,7 +9,7 @@
     "minor": "np minor",
     "major": "np major",
     "commitmsg": "conventional-changelog-lint -e",
-    "prepublish": "conventional-changelog -i CHANGELOG.md -s -r 0"
+    "prepublish": "conventional-changelog -i CHANGELOG.md -s -r 0 && git commit -am \"chore(changelog): Update changelog\""
   },
   "repository": {
     "type": "git",
