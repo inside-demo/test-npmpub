@@ -9,7 +9,7 @@
     "minor": "np minor",
     "major": "np major",
     "commitmsg": "conventional-changelog-lint -e",
-    "prepush": "conventional-changelog -i CHANGELOG.md -s -r 0"
+    "prepublish": "conventional-changelog -i CHANGELOG.md -s -r 0"
   },
   "repository": {
     "type": "git",
