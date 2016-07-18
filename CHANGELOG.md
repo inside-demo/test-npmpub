@@ -1,3 +1,13 @@
+<a name="0.0.4"></a>
+## 0.0.4 (2016-07-18)
+
+* 0.0.4 ([c7f02d4](https://github.com/GitScrum/test-npmpub/commit/c7f02d4))
+* chore(changelog): Update changelog ([0fa1d0f](https://github.com/GitScrum/test-npmpub/commit/0fa1d0f))
+* chore(package): update script prepublish ([320c145](https://github.com/GitScrum/test-npmpub/commit/320c145))
+* chore(package): update script prepublish ([0e13cb7](https://github.com/GitScrum/test-npmpub/commit/0e13cb7))
+
+
+
 <a name="0.0.3"></a>
 ## 0.0.3 (2016-07-18)
 
