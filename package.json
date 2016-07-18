@@ -8,7 +8,8 @@
     "patch": "np patch",
     "minor": "np minor",
     "major": "np major",
-    "commitmsg": "conventional-changelog-lint -e"
+    "commitmsg": "conventional-changelog-lint -e",
+    "prepush": "conventional-changelog -i CHANGELOG.md -s -r 0"
   },
   "repository": {
     "type": "git",
