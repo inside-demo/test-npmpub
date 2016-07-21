@@ -1,3 +1,15 @@
+<a name="0.0.6"></a>
+## 0.0.6 (2016-07-21)
+
+* 0.0.5 ([ec9fc44](https://github.com/GitScrum/test-npmpub/commit/ec9fc44))
+* 0.0.6 ([4a0cc99](https://github.com/GitScrum/test-npmpub/commit/4a0cc99))
+* chore(changelog): Update changelog ([cff397f](https://github.com/GitScrum/test-npmpub/commit/cff397f))
+* chore(package): del conventional changelog ([a2ad71c](https://github.com/GitScrum/test-npmpub/commit/a2ad71c))
+* chore(package): del git add with key all ([00ada11](https://github.com/GitScrum/test-npmpub/commit/00ada11))
+* chore(package): skip cleanup to path bump ([af828aa](https://github.com/GitScrum/test-npmpub/commit/af828aa))
+
+
+
 <a name="0.0.4"></a>
 ## 0.0.4 (2016-07-18)
 
