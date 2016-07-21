@@ -1,3 +1,14 @@
+<a name="0.0.7"></a>
+## 0.0.7 (2016-07-21)
+
+* 0.0.6 ([752da6a](https://github.com/GitScrum/test-npmpub/commit/752da6a))
+* 0.0.7 ([8b077df](https://github.com/GitScrum/test-npmpub/commit/8b077df))
+* chore(changelog): Update changelog ([6e28c0b](https://github.com/GitScrum/test-npmpub/commit/6e28c0b))
+* chore(package): change pre to post ([77450e0](https://github.com/GitScrum/test-npmpub/commit/77450e0))
+* chore(package): return conventional changelog ([43894b2](https://github.com/GitScrum/test-npmpub/commit/43894b2))
+
+
+
 <a name="0.0.6"></a>
 ## 0.0.6 (2016-07-21)
 
