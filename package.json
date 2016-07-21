@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"test passed\"",
-    "patch": "np patch",
+    "patch": "np --skip-cleanup patch",
     "minor": "np minor",
     "major": "np major",
     "commitmsg": "conventional-changelog-lint -e",
-    "prepublish": "conventional-changelog -i CHANGELOG.md -s -r 0 && git add --all && git commit -m \"chore(changelog): Update changelog\""
+    "prepublish": "conventional-changelog -i CHANGELOG.md -s && git add --all && git commit -m \"chore(changelog): Update changelog\""
   },
   "repository": {
     "type": "git",
