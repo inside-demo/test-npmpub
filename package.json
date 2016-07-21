@@ -1,13 +1,15 @@
 {
   "name": "test-npmpub",
-  "version": "0.0.6",
+  "version": "0.0.5",
   "description": "test auto push/pub",
   "main": "index.js",
   "scripts": {
     "test": "echo \"test passed\"",
     "patch": "np patch --skip-cleanup",
     "minor": "np minor",
-    "major": "np major"
+    "major": "np major",
+    "commitmsg": "conventional-changelog-lint -e",
+    "prepublish": "conventional-changelog -i CHANGELOG.md -s -r 0 && git commit -am \"chore(changelog): Update changelog\""
   },
   "repository": {
     "type": "git",
