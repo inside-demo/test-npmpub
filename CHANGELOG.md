@@ -1,3 +1,12 @@
+<a name="0.0.11"></a>
+## 0.0.11 (2016-07-21)
+
+* 0.0.11 ([6fb2a4d](https://github.com/GitScrum/test-npmpub/commit/6fb2a4d))
+* chore(changelog): Update changelog ([a33be17](https://github.com/GitScrum/test-npmpub/commit/a33be17))
+* chore(package): remove skip cleanup on patch ([153b7be](https://github.com/GitScrum/test-npmpub/commit/153b7be))
+
+
+
 <a name="0.0.10"></a>
 ## 0.0.10 (2016-07-21)
 
