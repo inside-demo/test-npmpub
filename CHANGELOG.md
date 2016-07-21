@@ -1,3 +1,12 @@
+<a name="0.0.8"></a>
+## 0.0.8 (2016-07-21)
+
+* 0.0.8 ([760a74e](https://github.com/GitScrum/test-npmpub/commit/760a74e))
+* docs(readme): add node support shield ([f4fe792](https://github.com/GitScrum/test-npmpub/commit/f4fe792))
+* chore(changelog): Update changelog ([4837670](https://github.com/GitScrum/test-npmpub/commit/4837670))
+
+
+
 <a name="0.0.7"></a>
 ## 0.0.7 (2016-07-21)
 
