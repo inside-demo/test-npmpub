@@ -1,3 +1,12 @@
+<a name="0.0.9"></a>
+## 0.0.9 (2016-07-21)
+
+* 0.0.9 ([32e40f5](https://github.com/GitScrum/test-npmpub/commit/32e40f5))
+* chore(changelog): Update changelog ([97318a9](https://github.com/GitScrum/test-npmpub/commit/97318a9))
+* chore(package): add version when bump ([a5a1c52](https://github.com/GitScrum/test-npmpub/commit/a5a1c52))
+
+
+
 <a name="0.0.8"></a>
 ## 0.0.8 (2016-07-21)
 
