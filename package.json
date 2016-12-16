@@ -8,9 +8,7 @@
     "prerelease": "np prerelease --tag=beta",
     "patch": "np patch",
     "minor": "np minor",
-    "major": "np major",
-    "commitmsg": "conventional-changelog-lint -e",
-    "postpublish": "conventional-changelog -i CHANGELOG.md -s -r 0 && git commit -am \"chore(changelog): Update changelog\""
+    "major": "np major"
   },
   "repository": {
     "type": "git",
@@ -23,8 +21,6 @@
   },
   "homepage": "https://github.com/GitScrum/test-npmpub#readme",
   "dependencies": {
-    "conventional-changelog-cli": "^1.2.0",
-    "conventional-changelog-lint": "^1.0.0",
     "husky": "^0.11.5",
     "np": "^2.6.0"
   }
