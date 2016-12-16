@@ -1,3 +1,16 @@
+<a name="0.0.12"></a>
+## 0.0.12 (2016-12-16)
+
+* 0.0.12 ([eac937d](https://github.com/GitScrum/test-npmpub/commit/eac937d))
+* Update README.md ([b8b81f0](https://github.com/GitScrum/test-npmpub/commit/b8b81f0))
+* chore(changelog): Update changelog ([9142269](https://github.com/GitScrum/test-npmpub/commit/9142269))
+* chore(package): add node version for commit changelog ([7a5275c](https://github.com/GitScrum/test-npmpub/commit/7a5275c))
+* chore(package): add patch-beta ([64529e5](https://github.com/GitScrum/test-npmpub/commit/64529e5))
+* chore(package): np add noclean ([cd550d0](https://github.com/GitScrum/test-npmpub/commit/cd550d0))
+* style(*): rename to lowercase ([303bffb](https://github.com/GitScrum/test-npmpub/commit/303bffb))
+
+
+
 <a name="0.0.11"></a>
 ## 0.0.11 (2016-07-21)
 
