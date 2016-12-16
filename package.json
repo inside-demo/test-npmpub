@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"test passed\"",
-    "patchbeta": "np --tag=beta patch",
+    "patchbeta": "np --tag=beta --no-cleanup patch",
     "patch": "np patch",
     "minor": "np minor",
     "major": "np major",
+    "clean": "rm -rf lib && mkdir lib",
     "commitmsg": "conventional-changelog-lint -e",
     "postpublish": "conventional-changelog -i changelog.md -s -r 0 && git commit -am \"chore(changelog): Update changelog  `node -v`\""
   },
