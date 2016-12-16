@@ -8,4 +8,4 @@
 [![npm download](https://img.shields.io/npm/dm/test-npmpub.svg)](https://www.npmjs.com/package/test-npmpub)
 [![npm download](https://img.shields.io/npm/dt/test-npmpub.svg)](https://www.npmjs.com/package/test-npmpub)
 <!-- endbadge -->
-[![node](https://img.shields.io/node/v/post-sequence.svg?maxAge=2592000&style=flat-square)]()
+[![node](https://img.shields.io/node/v/post-sequence.svg?maxAge=2592000)]()
