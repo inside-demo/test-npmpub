@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"test passed\"",
+    "prerelease": "np prerelease",
     "patch": "np patch",
     "minor": "np minor",
     "major": "np major",
