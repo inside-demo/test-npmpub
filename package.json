@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"test passed\"",
+    "patchbeta": "np --tag=beta patch",
     "patch": "np patch",
     "minor": "np minor",
     "major": "np major",
