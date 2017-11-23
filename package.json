@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"test passed\"",
-    "prerelease": "np prerelease --tag=beta",
-    "patch": "np patch",
-    "minor": "np minor",
-    "major": "np major"
+    "commitmsg": "commitlint --extends=@commitlint/config-angular -e",
+    "postpublish": "conventional-changelog -i changelog.md -s -r 0 && git commit -am \"chore: Update changelog\"",
+    "patch": "np patch --any-branch --no-yarn",
+    "minor": "np minor --any-branch --no-yarn",
+    "major": "np major --any-branch --no-yarn"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,10 @@
     "url": "https://github.com/GitScrum/test-npmpub/issues"
   },
   "homepage": "https://github.com/GitScrum/test-npmpub#readme",
-  "dependencies": {
+  "devDependencies": {
+    "@commitlint/cli": "^4.2.2",
+    "@commitlint/config-angular": "^4.2.1",
+    "conventional-changelog-cli": "^1.3.3",
     "husky": "^0.11.5",
     "np": "^2.6.0"
   }
