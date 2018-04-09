@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/GitScrum/test-npmpub#readme",
   "devDependencies": {
-    "@commitlint/cli": "^4.2.2",
-    "@commitlint/config-angular": "^4.2.1",
-    "conventional-changelog-cli": "^1.3.3",
-    "husky": "^0.11.5",
-    "np": "^2.6.0"
+    "@commitlint/cli": "4.3.0",
+    "@commitlint/config-angular": "4.3.0",
+    "conventional-changelog-cli": "1.3.5",
+    "husky": "0.11.9",
+    "np": "2.17.0"
   }
 }
